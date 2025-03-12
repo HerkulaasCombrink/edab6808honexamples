@@ -4,7 +4,7 @@ import streamlit as st
 
 st.title("This is test")
 variable = st.button("Click me")
-if variable
+if variable:
 # Generate random time series data
   time_series = np.random.randn(100)
   fig, ax = plt.subplots()
