@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Dictionary of stock symbols
 STOCKS = {
-    "Goldfield LDT": "GFI",
+    "Goldfield LTD": "GFI",
     "FirstRand LTD": "FSR.JO",
     "Microsoft (MSFT)": "MSFT"
 }
