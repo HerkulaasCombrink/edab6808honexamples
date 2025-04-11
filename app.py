@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 # Dictionary of stock symbols
 STOCKS = {
-    "Alphabet (GOOGL)": "GOOGL",
-    "Nvidia (NVDA)": "NVDA",
+    "Goldfield LDT": "GFI",
+    "FirstRand LTD": "FSR.JO",
     "Microsoft (MSFT)": "MSFT"
 }
 
